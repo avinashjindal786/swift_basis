@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		BCDF3B3428E9647A007E9016 /* swift_basic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swift_basic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCDF3B3728E9647A007E9016 /* swift_basicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_basicApp.swift; sourceTree = "<group>"; };
-		BCDF3B3928E9647A007E9016 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BCDF3B3928E9647A007E9016 /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 11; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 11; };
 		BCDF3B3B28E9647C007E9016 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BCDF3B3E28E9647C007E9016 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
